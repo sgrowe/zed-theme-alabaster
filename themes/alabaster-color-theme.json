@@ -1313,6 +1313,11 @@
             "font_style": null,
             "font_weight": null
           },
+          "function": {
+            "color": "#325cc0",
+            "font_style": null,
+            "font_weight": null
+          },
           "@function.special.definition": {
             "color": "#000000",
             "background_color": "#dbf1ff",
