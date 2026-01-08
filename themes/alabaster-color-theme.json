@@ -1285,6 +1285,11 @@
             "font_style": null,
             "font_weight": null
           },
+          "type": {
+            "color": "#7a3e9d",
+            "font_style": null,
+            "font_weight": null
+          },
           "string.special": {
             "color": "#000000",
             "background_color": "#dbecb6",
